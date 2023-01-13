@@ -22,7 +22,7 @@
 | 🟩 code block        | 🟩 equality operators | 🟩 higher order       | 🟩 Map              | 🟩 unreachable code  |
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
 | 🟩 this              | 🟩 bitwise operators  | 🟩 listener           | 🟩 weak collections | 🟩 exception         |
-| 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | ⬜️ Proxy            | 🟦 return early      |
+| 🟩 arrow function    | 🟩 break, continue    | 🟩 pipe               | ⬜️ Proxy            | 🟩 return early      |
 | 🟩 generator         | 🟩 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟩 linter            |
 | 🟩 async function    | 🟩 new Error          | 🟦 factory            | 🟩 string parsing   | 🟩 prettier          |
 | 🟩 call, bind, apply |                       | 🟩 pool               | 🟩 timers           | 🟩 unittest          |
@@ -51,7 +51,7 @@
 | 🟩 Reactive programming        | 🟩 Abstract class     | ⬜ Monad             |                          |
 | ⬜ FRP (Functional-reactive)   | 🟦 Interface          | 🟩 Generator         |                          |
 | 🟦 Automata-based programming  | 🟩 Encapsulation      | 🟩 Iterator          |                          |
-| 🟦 Domain-specific languages   | ⬜ Hidden class       | 🟩 Async Iterator    |                          |
+| 🟦 Domain-specific languages   | 🟩 Hidden class       | 🟩 Async Iterator    |                          |
 | 🟩 Multi-paradigm programming  | ⬜ Object form        |                      |                          |
 | ⬜ Metaprogramming             | 🟦 instance           |                      |                          |
 | ⬜ Actor model                 | ⬜ Introspection      |                      |                          |
@@ -67,7 +67,7 @@
 | 🟩 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
 | 🟩 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
 | 🟩 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
-| 🟩 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟦 Promise.allSettled    |
+| 🟩 Async Generator     | 🟩 child_process               | ⬜ CAS operations   | 🟦 Promise.allSettled    |
 | 🟩 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟦 Promise.race          |
 | 🟦 Thenable            | 🟦 Atomics                     | ⬜ kqueue           | 🟩 Promise.any           |
 | 🟩 EventEmitter        | 🟦 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
