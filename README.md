@@ -2,7 +2,7 @@
 <code>👷 Speciality: Software engineer</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>🧑‍💻 Languages: JavaScript, C</code>
+<code>🧑‍💻 Languages: JavaScript, C, Kotlin</code>
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@leagerxd](https://telegram.me/leagerxd)</code>
